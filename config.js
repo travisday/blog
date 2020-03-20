@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Travis Day',
-    photo: '/pic.jpg',
+    photo: '/photo.jpg',
     bio: 'A place for my thoughts on biohacking, data science, and life.',
     contacts: {
       email: '',
