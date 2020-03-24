@@ -11,13 +11,17 @@ description: >-
 category: PRODUCTIVITY
 tags:
   - Productivity
-  - focus
-  - work
-  - remote
+  - Focus
+  - Work
+  - Remote
 ---
+
+
+![Desk Image](/media/macbook-pro-beside-book-and-smartphone-3740879.jpg)
+
 Now that the majority of the world is working from home we have an extra responsibility to stay focused and productive. While there are many upsides to working at home, no commute, comfy clothes, and flexible hours. There are also many downsides, lack of human interaction, lack of supervision, and more distractions. The goal of this article is to give you some tips and tricks to try out if you aren't feeling as productive as you were while at work or school.
 
-![Desk Image](/media/black-ceramic-cup-on-a-black-surface-3740454.jpg)
+![Dog in bed Image](/media/close-up-photography-of-fawn-pug-covered-with-brown-cloth-374898.jpg)
 
 ### 1) Don't work in your bed
 
@@ -26,6 +30,8 @@ Your bed is a sacred place for sleeping (and other activities if you have a quar
 ### 2) Move spots
 
 Following point 1 if you still feel like you are getting distracted at your desk move around the house. If you have some reading to do, find a nice spot outside in the sunshine. I live with 4 other roommates and found that working at the dining room table with others makes me more accountable and I can get into a flow.
+
+![](/media/woman-writing-on-a-notebook-beside-teacup-and-tablet-733856.jpg)
 
 ### 3) Intense periods of focus followed by breaks
 
@@ -37,11 +43,15 @@ I usually try to do 2 sessions in the morning and 2 after lunch depending on mee
 
 Lastly, you should take at least a 30 min lunch where all work and studying is paused. It can be tempting to just work through lunch and end the day a little early, but if productivity is your goal your brain will be fatigued towards the end of the day lowering your work output. I find that walking outside in the sunshine is a great way to reset your brain and get you ready to conquer the afternoon.
 
+![](/media/woman-in-gray-tank-top-sitting-on-bed-3807551.jpg)
+
 ### 4) Wake up right
 
 Morning routines are very underrated and can make or break your day. I get it, It's difficult to set aside time in the morning for "extra" stuff. Usually we hit snooze a couple times then have the panic rush out the door barley having time to make a cup of coffee. Since we have to go no more than 10 feet to get to work now we can use some of that commute time to set ourselves up for the day.
 
 There are many resources out there for theoptimalmorning routine, but my best advice is to do what YOU like to do (except sleep). Getting up is a lot easier if you have something to look forward to. My goal for the morning is to be working an hour after my alarm goes off. Now, I'm not gonna lie, I hit the snooze button more often than I'd like, but I feel a lot better when I don't and suck it up and get out of bed. To fill the next hour I like to start by making coffee. I then like to sit in the sun and drink my coffee, read the news, and play guitar. After that I do some form of meditation and/or yoga. After all that I feel ready to tackle anything.
+
+![](/media/close-up-photography-of-sleeping-dog-791862.jpg)
 
 ### 5) Get good sleep
 
