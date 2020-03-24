@@ -17,6 +17,8 @@ tags:
 ---
 Now that the majority of the world is working from home we have an extra responsibility to stay focused and productive. While there are many upsides to working at home, no commute, comfy clothes, and flexible hours. There are also many downsides, lack of human interaction, lack of supervision, and more distractions. The goal of this article is to give you some tips and tricks to try out if you aren't feeling as productive as you were while at work or school.
 
+![Desk Image](/media/black-ceramic-cup-on-a-black-surface-3740454.jpg)
+
 ### 1) Don't work in your bed
 
 Your bed is a sacred place for sleeping (and other activities if you have a quarantine bae). While it may seem like a wonderful cozy and comfortable place to work usually you are much better off elsewhere. Your subconscious makes associations with everything you interact with. If you are sleeping in your bed every night (hopefully) then you will associate your bed with sleep. Likewise, you probably associate your desk with working/studying. For me, most of my hard studying was done in the library. Since that's not an option currently I work from my desk at home. Which happens to be in my room and extremely close to my bed and where I'm tempted to nap, play video games, or find any other excuse not to work. This is not an ideal situation, but hey that's life.
